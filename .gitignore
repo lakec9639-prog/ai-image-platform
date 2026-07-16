@@ -1,0 +1,8 @@
+.env
+node_modules/
+output/
+backend/target/
+backend/src/main/resources/application-local.yml
+frontend/dist/
+frontend/node_modules/.vite/
+*.log

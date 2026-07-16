@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del *)",
+      "Bash(npm install *)",
+      "Bash(where node *)",
+      "WebFetch(domain:www.volcengine.com)",
+      "Bash(mvn spring-boot:run -Dspring-boot.run.profiles=dev)",
+      "Bash(mvn compile *)",
+      "Bash(mvn --version)",
+      "WebSearch",
+      "WebFetch(domain:jar-download.com)",
+      "WebFetch(domain:artifact.bytedance.com)",
+      "WebFetch(domain:blog.csdn.net)",
+      "WebFetch(domain:www.php.cn)",
+      "Bash(jar tf *)",
+      "Bash(grep \"\\\\.class$\")",
+      "Bash(git config *)",
+      "Bash(where git *)"
+    ]
+  }
+}
