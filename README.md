@@ -1,6 +1,7 @@
 # AI Image Platform
 
 基于火山引擎豆包 Doubao（Seedream）大模型的 AI 图片生成平台，支持文生图、图生图、AI 对话等功能。
+# 项目展示--飞书文档：https://ecnzrsswphg7.feishu.cn/wiki/PjnVwfDlJiUMZskAYaLcwqtZneh
 
 ## 功能特性
 
